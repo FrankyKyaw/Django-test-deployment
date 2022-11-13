@@ -1,6 +1,8 @@
 # Django-test-deployment
 Repository for deploying Django
 
+Deployed at frankykyaw.pythonanywhere.com
+
 Home Page
 ![app](https://github.com/FrankyKyaw/Django-test-deployment/blob/master/Screenshot%202022-11-12%20162144.png)
 
